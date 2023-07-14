@@ -7,6 +7,15 @@
 <title>Insert title here</title>
 </head>
 <body>
+<header>
+	<nav>
+		<ul>
+			<p>1.<a href="http://www.google.com" >google</a></p>
+			<p>2.<a href="http://www.naver.com" >naver</a></p>
+			<p>3.<a href="http://www.youtube.com" >youtube</a></p>
+		</ul>
+	</nav>
+</header>
 <main>
  <fieldset>
  	<legend>관리자 페이지</legend>
@@ -34,5 +43,15 @@
  		</form>
  </fieldset>
 </main>
+<footer>
+	<fieldset>
+	<legend>footer</legend>
+	<button >button1</button>
+	<button >button2</button>
+	<button >button3</button>
+	<button >button4</button>
+	</fieldset>
+</footer>
+
 </body>
 </html>
